@@ -1,0 +1,74 @@
+  408  git clone https://github.com/darmawanhadip/tugas01.git
+  409  git config --global user.name "Darmawan Hadiprasetyo"
+  410  git config --global user.email "m26414143@john.petra.ac.id"
+  411  git config --list
+  412  mkdir tugas01
+  413  mkdir tugas01tos
+  414  cd tugas01tos
+  415  touch coba
+  416  vi coba
+  417  cd
+  418  ls
+  419  passwd 27121995
+  420  pwd
+  421  pwd test
+  422  history
+  423  cd tugas01tos
+  424  echo "hola"
+  425  mkdir kosong
+  426  rmdir
+  427  rmdir kosong
+  428  strings
+  429  strings 1 coba
+  430  strings coba
+  431  man strings
+  432  strings -n coba
+  433  strings -n 2 coba
+  434  cat >> coba
+  435  vi coba
+  436  grep ^h coba
+  437  wc coba
+  438  cut luluskan coba
+  439  cut -c luluskan coba
+  440  cut -d " " -f2 coba
+  441  paste -d " " -f1 coba
+  442  paste 1 2 coba
+  443  paste coba
+  444  sort coba
+  445  passwd
+  446  ps
+  447  ps -aux
+  448  pstree
+  449  tar -cvf tar.tar coba
+  450  ls -al
+  451  tar -zvf tar.tar
+  452  rm -rf tar.tar
+  453  zip zip.zip
+  454  ls
+  455  ls -al
+  456  zip zip.zip coba
+  457  ls
+  458  unzip zip.zip
+  459  history
+  460  git status
+  461  cd
+  462  git status
+  463  cd tugas01tos
+  464  git add coba
+  465  git starus
+  466  git --help
+  467  git-status
+  468  git status
+  469  git clone https://github.com/darmawanhadip/tugas01
+  470  git status
+  471  vi git.txt
+  472  git add git.txt
+  473  git status
+  474  git commit
+  475  git status
+  476  ipconfig
+  477  ping 17.20.0.1
+  478  traceroute www.google.com
+  479  netstat -a
+  480  nmap -v sn 10.0.0.0/8
+  481  history
